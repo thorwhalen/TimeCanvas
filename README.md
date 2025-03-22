@@ -1,6 +1,8 @@
 # TimeCanvas
 
-Explorations in temporal data acquisition, analysis, and visualization
+Explorations in temporal data acquisition, analysis, and visualization.
+
+See [this "Sociology-AI-Viz" chatbot](https://chatgpt.com/g/g-67d18e37dc1881918a4cd53af47c9ebd-sociology-ai-viz) that has some of the materials here and more as it's knowledge base. 
 
 # Current main places:
 
